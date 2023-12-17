@@ -1,0 +1,4 @@
+#ignore ini
+*.ini
+#ignore .cfg
+*.cfg
